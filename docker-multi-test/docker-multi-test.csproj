@@ -14,4 +14,8 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\docker-multi-test-lib\docker-multi-test-lib.csproj" />
+    </ItemGroup>
+
 </Project>

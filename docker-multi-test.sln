@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docker-multi-test", "docker-multi-test\docker-multi-test.csproj", "{630786AF-8A02-4012-B49F-7EB2E9BC143E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docker-multi-test-lib", "docker-multi-test-lib\docker-multi-test-lib.csproj", "{EF4A9868-5153-4A86-B9F9-CDD3F84A2183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{630786AF-8A02-4012-B49F-7EB2E9BC143E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630786AF-8A02-4012-B49F-7EB2E9BC143E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630786AF-8A02-4012-B49F-7EB2E9BC143E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4A9868-5153-4A86-B9F9-CDD3F84A2183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4A9868-5153-4A86-B9F9-CDD3F84A2183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4A9868-5153-4A86-B9F9-CDD3F84A2183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4A9868-5153-4A86-B9F9-CDD3F84A2183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
